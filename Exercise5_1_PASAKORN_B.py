@@ -1,0 +1,6 @@
+ten = int(input("Input ten : "))
+two = int(input("Input two : "))
+print(ten,"+",two,"=", ten+two)
+print(ten,"-",two,"=", ten-two)
+print(ten,"*",two,"=", ten*two)
+print(ten,"/",two,"=", int(ten/two))
